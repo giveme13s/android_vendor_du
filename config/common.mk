@@ -101,6 +101,7 @@ PRODUCT_PACKAGES += \
     LatinIME \
     BluetoothExt \
     CalendarWidget \
+    LockClock \
     KernelAdiutor \
     OmniSwitch
 
